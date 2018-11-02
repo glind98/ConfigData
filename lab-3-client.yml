@@ -1,4 +1,2 @@
 ---
-spring:
-  profiles: default
-lucky-word: Irsih  
+lucky-word: Irsih
