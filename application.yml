@@ -32,4 +32,10 @@ spring:
   profiles: noun
   application:
     name: noun
-words: boat,book,vote,seat,backpack,partition,groundhog    
+words: boat,book,vote,seat,backpack,partition,groundhog
+---
+spring:
+  profiles: cold-noun
+  application:
+    name: noun
+words: icicle,refrigerator,blizzard,snowball
